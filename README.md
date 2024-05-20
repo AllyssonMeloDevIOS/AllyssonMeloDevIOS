@@ -1,18 +1,20 @@
 ### Hi there 👋
 
-Olá, meu nome é Allysson Melo, sou um Dev iOS
+Olá, meu nome é Allysson Melo 
 
-<!--
-**AllyssonMeloDevIOS/AllyssonMeloDevIOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor iOS, Apaixonado pelo que faço. Tenho paixão por prototipar novas ideias para o mercado e estou entusiasmado em compartilhar meus projetos com vocês aqui no GitHub.
 
-Here are some ideas to get you started:
+⦿ 🏢 Atualmente atuando como Freela nos projetos 👇🏻
+⦿ 👨🏻‍💻 Projeto @HireFast
+⦿ 👨🏻‍💻 Projeto @SquadBustersWiki
+⦿ 👨🏻‍💻 Projeto @Jurne
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⦿ ⚒️ Diariamente utilizo .swift .xcode .figma .scrum .trello
+⦿ 🌎 Morando em Recife
+⦿ 🌱 O sucesso é a soma de pequenos esforços repetidos dia após dia.
+
+
+
+🤝 Conecte-se comigo!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/allyssonmelo)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=black)](mailto:allyssonmelodev@gmail.com)
