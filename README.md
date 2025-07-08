@@ -1,26 +1,54 @@
-### Hi there 👋
+# Hi there 👋  
+### Olá, eu sou o Allysson Melo
 
-Olá, meu nome é Allysson Melo 
+Sou **Desenvolvedor iOS e Backend**, apaixonado por criar soluções úteis e interfaces intuitivas. Gosto de transformar ideias em produtos reais, validando hipóteses de forma ágil e com foco no usuário.  
+Atualmente, estou expandindo meus conhecimentos para backend e web, construindo produtos completos — do banco de dados ao app na App Store.
 
-Desenvolvedor iOS, Apaixonado pelo que faço. Tenho paixão por prototipar novas ideias para o mercado e estou entusiasmado em compartilhar meus projetos com vocês aqui no GitHub.
+---
 
-⦿ 🏢 Atualmente atuando como Freela nos projetos 👇🏻
+## 🚀 Projetos em andamento
 
-⦿ 👨🏻‍💻 Projeto @HireFast
+- 📱 **@HireFast** — app publicado na App Store para contratação de serviços  
+- 👨🏻‍💻 **[FinanceManagerAPI](https://github.com/AllyssonMeloDevIOS/financeManagerApi)** — API RESTful com autenticação JWT e Docker  
+- 🧾 **FinanceManager Web** — versão web da aplicação com Angular  
+- 📲 **FinanceManager Mobile** — app iOS com SwiftUI (em breve)
 
-⦿ 👨🏻‍💻 Projeto @SquadBustersWiki
+---
 
-⦿ 👨🏻‍💻 Projeto @Jurne
+## 🧰 Tecnologias que tenho trabalhado
 
-⦿ ⚒️ Diariamente utilizo .swift .xcode .figma .scrum .trello
+### 📱 Mobile (iOS)
+- Swift • UIKit • SwiftUI • MVVM • ViewCode • XCTest
 
-⦿ 🌎 Morando em Recife
+### 🌐 Backend & Web
+- Node.js • Express • TypeORM • PostgreSQL • JWT  • Docker & Docker Compose
+- Angular
 
-⦿ 🌱 O sucesso é a soma de pequenos esforços repetidos dia após dia.
+### 🛠️ Outros
+- Figma • Trello • Git • GitHub • Scrum  
+- CI/CD com GitHub Actions (em progresso)
 
+---
 
+## 🌍 Localização
 
-🤝 Conecte-se comigo!
+📍 Recife, Brasil
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/allyssonmelo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=black)](mailto:allyssonmelodev@gmail.com)
+---
+
+## 🌱 Filosofia de vida
+
+> "O sucesso é a soma de pequenos esforços repetidos dia após dia."
+
+---
+
+## 🤝 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/allyssonmelo)
+- 📧 allyssonmelo.adm@gmail.com
+
+---
+
+<!--
+✨ Obrigado por visitar meu perfil! Volte sempre. 🚀
+-->
